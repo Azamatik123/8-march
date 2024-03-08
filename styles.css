@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.slide {
+  display: none;
+}
+
+canvas {
+  border: 1px solid #000;
+}
+
+#score {
+  margin-top: 10px;
+}
